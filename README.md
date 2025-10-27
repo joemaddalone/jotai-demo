@@ -1,5 +1,5 @@
 jotai demo
 
-video: https://youtu.be/So4ny9Aa7Oo
+video: https://youtu.be/FmsRFGuJF5A
 
-live demo:
+live demo: https://joemaddalone.github.io/jotai-demo/
